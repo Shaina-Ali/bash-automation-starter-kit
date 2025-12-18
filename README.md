@@ -1,4 +1,4 @@
-# Bash Automation Starter Kit 
+# Bash Automation Starter Kit  
 
 Ce projet contient des scripts pour automatiser l'administration système de base.
 
@@ -8,3 +8,10 @@ Ce projet contient des scripts pour automatiser l'administration système de bas
 
 Ce que j'ai appris :
 - Gestion des permissions Linux (`chmod`)
+
+### Git Workflow 
+Pour ce projet, j'utilise un workflow pour garantir la stabilité du code :
+- Utilisation de **branches** (`feature/`) pour les nouvelles fonctionnalités pour éviter de perturber la branche principale
+- Messages de commit structurés.
+- Validation des changements via des **Pull Requests**.
+- Merge après validation.
